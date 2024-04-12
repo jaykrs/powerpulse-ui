@@ -1,0 +1,58 @@
+[
+    {
+      "city_id": 1,
+      "code": "alabha",
+      "name_en": "Al-Abha"
+    },
+    {
+      "city_id": 2,
+      "code": "alkharj",
+      "name_en": "Al-Kharj"
+    },
+    {
+      "city_id": 3,
+      "code": "alkhobar",
+      "name_en": "Al-Khobar"
+    },
+    {
+      "city_id": 4,
+      "code": "buraidah",
+      "name_en": "Buraidah"
+    },
+    {
+      "city_id": 5,
+      "code": "dammam",
+      "name_en": "Dammam"
+    },
+    {
+      "city_id": 6,
+      "code": "jeddah",
+      "name_en": "Jeddah"
+    },
+    {
+      "city_id": 7,
+      "code": "mecca",
+      "name_en": "Mecca"
+    },
+    {
+      "city_id": 8,
+      "code": "medina",
+      "name_en": "Medina"
+    },
+    {
+      "city_id": 9,
+      "code": "riyadh",
+      "name_en": "Riyadh"
+    },
+    {
+      "city_id": 10,
+      "code": "taif",
+      "name_en": "Taif"
+    },
+    {
+      "city_id": 10,
+      "code": "tabuk",
+      "name_en": "Tabuk"
+    }
+ 
+  ]

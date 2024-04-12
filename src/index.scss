@@ -1,0 +1,23 @@
+@import 'assets/scss/app.scss';
+$color_1: hsl(232, 47%, 85%);
+$background-color_1: rgba(4, 3, 11, 0.133);
+$box-shadow-color:#040f3e00;
+
+.linkStyle {
+    background-color: rgba(246, 246, 246, 0.6);
+    color:#000;
+    font-weight: 200;
+        font-size: 45px;
+        border-radius: 5%;
+}
+
+.linkStyle {
+    &:hover{
+        color:#fff;
+        border-radius: 5%;
+        box-shadow: #5661f5 10px 6px 6px 4px;
+        font-weight: bold;
+        background-color: #171e5e;
+        font-size: 60px;
+    }
+}
