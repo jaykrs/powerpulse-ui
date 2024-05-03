@@ -1,0 +1,13 @@
+auto page create in react
+
+steps 
+
+1 - create a folder with relevant name 
+2 - create a file with js extension
+3 - copy file content from template and paste in js file
+4 - replace all starting with $ with relevant variable name
+5 - create a hook to create api call and get response and store in state
+6 - set the action on table
+7 - create a new entry in routes.js file
+8 - create a new entry in menu-items.js file
+

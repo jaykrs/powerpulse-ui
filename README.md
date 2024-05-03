@@ -1,68 +1,157 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Datta Able React Free Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Datta%20Able%20-%20The%20professional%20Bootstrap%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://codedthemes.com/demos/admin-templates/datta-able/react/default&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
 
-## Available Scripts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/datta-able-free-react-admin-template/blob/main/LICENSE)
+[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/datta-able-free-react-admin-template)](https://github.com/codedthemes/datta-able-free-react-admin-template)
 
-In the project directory, you can run:
+Datta Able React Free Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
 
-### `npm start`
+The code structure is high flexible to use and modify.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Its design adapt any screen size easily even if retina screens.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+It is modern concept dashboard design with eye catchy colors. Wish you happy to use our product in your project.
 
-### `npm test`
+:star: :star: :star: Support us by giving star (Top right of this page) if you like the theme :star: :star: :star:
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Datta Able React Free Admin Template Preview Image](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-REACT-REPO%20-%20Datta%20able.jpg)
 
-### `npm run build`
+The [Pro version](https://codedthemes.com/demos/admin-templates/datta-able/react/default) of Datta able react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| [Datta Able Free](https://codedthemes.com/demos/admin-templates/datta-able/react/free) | [Datta able Pro](https://codedthemes.com/demos/admin-templates/datta-able/react/default)                                         |
+| ---------------------------------------------- | :------------------------------------------------------------------------------- |
+| **7+** Demo pages                               | **85+** Demo pages                                                               |
+| -                                              | ✓ Multi-Layout                                                                 |
+| -                                              | ✓ Dark/Light Mode 🌓                                                             |
+| -                                              | ✓ TypeScript version                                                             |
+| -                                              | ✓ Multiple color options                                                         |
+| -                                              | ✓ RTL                                                                            |
+| -                                              | ✓ JWT, Firebase, Auth0, AWS authentication                                       |
+| -                                              | ✓ [More components](https://codedthemes.com/demos/admin-templates/datta-able/react/default/basic/alert) |
+| ✓ MIT License                                  | ✓ [Pro License](https://codedthemes.com/item/datta-able-react-admin-template/)                                  |
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Why Datta Able?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Datta Able offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
 
-### `npm run eject`
+- Support React18.
+- Professional user interface.
+- Bootstrap React components.
+- Fully responsive, all modern browser supported.
+- Easy to use code structure
+- Flexible & high-Performance code
+- Simple documentation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Free Datta Able React version
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Preview
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Demo](https://codedthemes.com/demos/admin-templates/datta-able/react/free)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### Download
 
-## Learn More
+- [Download from GitHub](https://github.com/codedthemes/datta-able-free-react-admin-template)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Datta Able Pro version
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Preview
 
-### Code Splitting
+- [Demo](https://codedthemes.com/demos/admin-templates/datta-able/react/default)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+#### Purchase
 
-### Analyzing the Bundle Size
+- [Buy now](https://codedthemes.com/item/datta-able-react-admin-template/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Premium Version Preview & Download
 
-### Making a Progressive Web App
+Datta Able Pro Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+#### Preview
 
-### Advanced Configuration
+- [Demo](https://codedthemes.com/demos/admin-templates/datta-able/react/default/dashboard/default)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+#### Download
 
-### Deployment
+- [Purchase from CodedThemes](https://codedthemes.com/item/datta-able-react-admin-template/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+## Table of contents
 
-### `npm run build` fails to minify
+- [Getting started](#getting-started)
+- [Documentation](#documentation)
+- [Technology stack](#technology-stack)
+- [Author](#author)
+- [Issues?](#issues)
+- [License](#license)
+- [More Free React Templates](#more-free-react-material-admin-dashboard-templates)
+- [More Pro React Templates](#more-premium-react-material-admin-dashboard-templates)
+- [Follow us](#follow-us)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Getting Started
+
+1. Clone from Github
+
+```
+git clone https://github.com/codedthemes/datta-able-bootstrap-dashboard.git
+```
+
+2. Install packages
+
+```
+yarn
+```
+
+3. Run project
+
+```
+yarn start
+```
+
+## Documentation
+
+[Datta Able documentation](https://codedthemes.com/demos/admin-templates/datta-able/react/docs/) helps you out in all aspects from Installation to deployment.
+
+## Technology stack
+
+- [Bootstrap V5](https://react-bootstrap.netlify.app/)
+- Built with React Hooks API.
+- Redux & React context API for state management.
+- Redux toolkit.
+- React Router for navigation routing.
+- Support for react-script.
+- Code splitting.
+- CSS-in-JS.
+
+## Author
+
+Datta Able is managed by team [CodedThemes](https://codedthemes.com).
+
+## Issues
+
+Please generate a [GitHub issue](https://github.com/codedthemes/datta-able-free-react-admin-template/issues) if you found a bug in any version. We are try our best to resolve the issue.
+
+## License
+
+- Licensed under [MIT](https://github.com/codedthemes/datta-able-bootstrap-dashboard/blob/master/LICENSE)
+
+## More Free React Material Admin Dashboard Templates
+
+- [Free Mantis](https://github.com/codedthemes/mantis-free-react-admin-template)
+- [Free Materially](https://codedthemes.com/item/materially-free-reactjs-admin-template/)
+- [Free Berry](https://mui.com/store/items/berry-react-material-admin-free/)
+- [Free Gradient](https://github.com/codedthemes/gradient-able-free-admin-template/tree/main/react)
+
+## More premium React Material Admin Dashboard Templates
+
+- [Mantis](https://codedthemes.com/item/mantis-mui-react-dashboard-template/)
+- [Materially](https://codedthemes.com/item/materially-reactjs-admin-dashboard/)
+- [Berry](https://mui.com/store/items/berry-react-material-admin/)
+- [Gradient](https://codedthemes.com/item/gradient-able-reactjs-admin-dashboard/)
+
+## Follow us
+
+- Website [https://codedthemes.com/demos/admin-templates/datta-able/react/default/dashboard/default](https://codedthemes.com/demos/admin-templates/datta-able/react/default/dashboard/default)
+- Blog [https://blog.codedthemes.com/](https://blog.codedthemes.com/)
+- CodedThemes [https://codedthemes.com](https://codedthemes.com)
+- Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
+- Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
+- Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
