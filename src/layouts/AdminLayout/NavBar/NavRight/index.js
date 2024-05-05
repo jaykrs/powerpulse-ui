@@ -130,7 +130,7 @@ const NavRight = () => {
               </div>
               <ListGroup as="ul" bsPrefix=" " variant="flush" className="pro-body">
                 <ListGroup.Item as="li" bsPrefix=" ">
-                  <Link to="#" className="dropdown-item">
+                  <Link to="/user/vendorSetting" className="dropdown-item">
                     <i className="feather icon-settings" /> Settings
                   </Link>
                 </ListGroup.Item>

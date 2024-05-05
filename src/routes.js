@@ -126,6 +126,11 @@ const routes = [
         path: '/user/template/table',
         element: lazy(() => import('./user/template/table/BaseTable'))
       },
+      {
+        exact: 'true',
+        path: '/user/vendorSetting',
+        element: lazy(() => import('./user/template/table/VendorSetting'))
+      },
     ]
   }
 ];

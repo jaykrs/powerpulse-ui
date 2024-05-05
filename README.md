@@ -1,10 +1,10 @@
-# Datta Able React Free Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Datta%20Able%20-%20The%20professional%20Bootstrap%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://codedthemes.com/demos/admin-templates/datta-able/react/default&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
+# PowerPulse React Free Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Download%20Datta%20Able%20-%20The%20professional%20Bootstrap%20designed%20React%20Admin%20Dashboard%20Template%20&url=https://codedthemes.com/demos/admin-templates/datta-able/react/default&via=codedthemes&hashtags=reactjs,webdev,developers,javascript)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/datta-able-free-react-admin-template/blob/main/LICENSE)
 [![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/datta-able-free-react-admin-template)](https://github.com/codedthemes/datta-able-free-react-admin-template)
 
-Datta Able React Free Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
+PowerPulse React Free Admin Template comes with variety of components like Button, Badges, Tabs, Breadcrumb, Icons, Form elements, Table, Charts & Authentication pages.
 
 The code structure is high flexible to use and modify.
 
@@ -14,11 +14,11 @@ It is modern concept dashboard design with eye catchy colors. Wish you happy to 
 
 :star: :star: :star: Support us by giving star (Top right of this page) if you like the theme :star: :star: :star:
 
-![Datta Able React Free Admin Template Preview Image](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-REACT-REPO%20-%20Datta%20able.jpg)
+![PowerPulse React Free Admin Template Preview Image](https://org-public-assets.s3.us-west-2.amazonaws.com/Free-Version-Banners/GITHUB-FREE-REACT-REPO%20-%20Datta%20able.jpg)
 
-The [Pro version](https://codedthemes.com/demos/admin-templates/datta-able/react/default) of Datta able react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
+The [Pro version](https://codedthemes.com/demos/admin-templates/datta-able/react/default) of PowerPulse react template includes features such as TypeScript, apps, authentication methods (i.e. JWT, Auth0, Firebase), advance components, form plugins, layouts, widgets, and more.
 
-| [Datta Able Free](https://codedthemes.com/demos/admin-templates/datta-able/react/free) | [Datta able Pro](https://codedthemes.com/demos/admin-templates/datta-able/react/default)                                         |
+| [PowerPulse Free](https://codedthemes.com/demos/admin-templates/datta-able/react/free) | [PowerPulse Pro](https://codedthemes.com/demos/admin-templates/datta-able/react/default)                                         |
 | ---------------------------------------------- | :------------------------------------------------------------------------------- |
 | **7+** Demo pages                               | **85+** Demo pages                                                               |
 | -                                              | ✓ Multi-Layout                                                                 |
@@ -30,9 +30,9 @@ The [Pro version](https://codedthemes.com/demos/admin-templates/datta-able/react
 | -                                              | ✓ [More components](https://codedthemes.com/demos/admin-templates/datta-able/react/default/basic/alert) |
 | ✓ MIT License                                  | ✓ [Pro License](https://codedthemes.com/item/datta-able-react-admin-template/)                                  |
 
-## Why Datta Able?
+## Why PowerPulse?
 
-Datta Able offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
+PowerPulse offers everything needed to build an advanced dashboard application. In the initial release, we included following high-end features,
 
 - Support React18.
 - Professional user interface.
@@ -42,7 +42,7 @@ Datta Able offers everything needed to build an advanced dashboard application. 
 - Flexible & high-Performance code
 - Simple documentation
 
-## Free Datta Able React version
+## Free PowerPulse React version
 
 #### Preview
 
@@ -52,7 +52,7 @@ Datta Able offers everything needed to build an advanced dashboard application. 
 
 - [Download from GitHub](https://github.com/codedthemes/datta-able-free-react-admin-template)
 
-## Datta Able Pro version
+## PowerPulse Pro version
 
 #### Preview
 
@@ -64,7 +64,7 @@ Datta Able offers everything needed to build an advanced dashboard application. 
 
 ## Premium Version Preview & Download
 
-Datta Able Pro Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
+PowerPulse Pro Admin Template is available to purchase. Visit its numerous demos and make your purchase decision.
 
 #### Preview
 
@@ -108,7 +108,7 @@ yarn start
 
 ## Documentation
 
-[Datta Able documentation](https://codedthemes.com/demos/admin-templates/datta-able/react/docs/) helps you out in all aspects from Installation to deployment.
+[PowerPulse documentation](https://codedthemes.com/demos/admin-templates/datta-able/react/docs/) helps you out in all aspects from Installation to deployment.
 
 ## Technology stack
 
@@ -123,7 +123,7 @@ yarn start
 
 ## Author
 
-Datta Able is managed by team [CodedThemes](https://codedthemes.com).
+PowerPulse is managed by team [CodedThemes](https://codedthemes.com).
 
 ## Issues
 
