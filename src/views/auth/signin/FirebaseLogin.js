@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 import { Row, Col, Button, Alert } from 'react-bootstrap';
+import { APP_URL } from '../../../config/constant'
 
 import * as Yup from 'yup';
 import { Formik } from 'formik';
@@ -12,7 +13,7 @@ const FirebaseLogin = ({ className, ...rest }) => {
     <React.Fragment>
       <Formik
         initialValues={{
-          email: 'info@codedthemes.com',
+          email: 'info@email.com',
           password: '123456',
           submit: null
         }}
@@ -22,7 +23,7 @@ const FirebaseLogin = ({ className, ...rest }) => {
         })}
         onSubmit={(formData) => {
           try {
-            axios.post("https://powerpulse-admin.fly.dev" + "/api/auth/local", { identifier: formData.email, password: formData.password })
+            axios.post( APP_URL + "/api/auth/local", { identifier: formData.email, password: formData.password })
               .then(result => {
                 if (result && result.request.status === 200) {
                   localStorage.setItem("jwt", result.data.jwt)
