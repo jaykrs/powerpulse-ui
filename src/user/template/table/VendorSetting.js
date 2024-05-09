@@ -14,8 +14,10 @@ const VendorSetting = () => {
       })
         .then(res => {
           let _data = res.data.data[0].attributes;
+          setVid(res.data.data[0].id);
           set_Form_Data(prev => {
             return { ...prev, 
+              ["Id"]: _data.Id,
               ["vendorId"]: _data.vendorId,
               ["vendor_name"]: _data.vendor_name,
               ["contact_email"]: _data.contact_email, 
@@ -23,7 +25,7 @@ const VendorSetting = () => {
               ["contact_person_phone"]: _data.contact_person_phone, 
               ["vendor_brief"]: _data.vendor_brief,
               ["additional_data"]: _data.additional_data,
-              ["vendor_user_limit"]: _data.vendor_user_limit,
+              ["vendor_user_limit"]: _data.vendor_user_limit, 
             }
           })
         }).catch(err => {
@@ -31,9 +33,10 @@ const VendorSetting = () => {
         })
     })()
   }, [])
-
+  const [vid, setVid] = useState();
   const [edit, setEdit] = useState(false);
   let [form_Data, set_Form_Data] = useState({
+    Id: "",
     vendorId: "",
     vendor_name: "",
     contact_email: "",
@@ -50,6 +53,28 @@ const VendorSetting = () => {
 
   const handleSubmit = (event) => {
     const form = event.currentTarget;
+console.log(form);
+    axios.put(APP_URL + "/api/vendors/"+vid, {
+      "data": {
+        additional_data: form.form.elements.additional_data.value,
+        vendor_name: form.form.elements.vendor_name.value,
+        contact_email: form.form.elements.contact_email.value,
+        contact_person_name: form.form.elements.contact_person_name.value,
+        contact_person_phone: form.form.elements.contact_person_phone.value,
+        vendor_brief: form.form.elements.vendor_brief.value,
+        vendor_user_limit: form.form.elements.vendor_user_limit.value
+      }
+    }, {
+      headers: {
+        Authorization: "Bearer " + localStorage.getItem("jwt")
+      }
+    }
+    ).then(result => {
+      navigate("/user/vendorSetting")
+    }).catch(err => {
+      console.log(err);
+    })
+
     console.log(form);
   };
 
@@ -101,7 +126,7 @@ const VendorSetting = () => {
 
                     <Form.Group className="mb-3" controlId="formBasicPassword">
                       <Form.Label>Contact Name</Form.Label>
-                      <Form.Control type="email" placeholder="Contact Name" name="contact_person_name" value={form_Data.contact_person_name} onChange={handleOnChange} disabled={!edit} />
+                      <Form.Control type="text" placeholder="Contact Name" name="contact_person_name" value={form_Data.contact_person_name} onChange={handleOnChange} disabled={!edit} />
                     </Form.Group>
 
                     <Form.Group className="mb-3" controlId="formBasicChecbox">
