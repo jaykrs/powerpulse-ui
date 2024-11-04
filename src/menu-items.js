@@ -38,6 +38,36 @@ const menuItems = {
       ]
     },
     {
+      id: 'campaign',
+      title: 'Campaign',
+      type: 'group',
+      icon: 'icon-navigation',
+      children: [
+        {
+          id: 'templates',
+          title: 'Templates',
+          type: 'item',
+          icon: 'feather icon-home',
+          url: '/app/campaign/template'
+        },
+        {
+          id: 'statics',
+          title: 'Statics',
+          type: 'item',
+          icon: 'feather icon-home',
+          url: '/app/campaign/statics'
+        },
+        {
+          id: 'setting',
+          title: 'Setting',
+          type: 'item',
+          icon: 'feather icon-home',
+          url: '/app/campaign/setting'
+        }
+
+      ]
+    },
+    {
       id: 'ui-element',
       title: 'UI ELEMENT',
       type: 'group',

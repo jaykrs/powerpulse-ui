@@ -23,7 +23,7 @@ const FirebaseLogin = ({ className, ...rest }) => {
         })}
         onSubmit={(formData) => {
           try {
-            axios.post( APP_URL + "/api/auth/local", { identifier: formData.email, password: formData.password })
+            axios.post( 'https://api.edoctry.com' + "/api/auth/local", { identifier: formData.email, password: formData.password })
               .then(result => {
                 if (result && result.request.status === 200) {
                   localStorage.setItem("jwt", result.data.jwt)

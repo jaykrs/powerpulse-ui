@@ -51,6 +51,7 @@ const routes = [
     path: '/auth/reset-password-1',
     element: lazy(() => import('./views/auth/reset-password/ResetPassword1'))
   },
+  
   {
     path: '*',
     layout: AdminLayout,
@@ -130,6 +131,11 @@ const routes = [
         exact: 'true',
         path: '/user/vendorSetting',
         element: lazy(() => import('./user/template/table/VendorSetting'))
+      },
+      {
+        exact: 'true',
+        path: '/components/cards',
+        element: lazy(() => import('./components/Card/MainCard'))
       },
     ]
   }
